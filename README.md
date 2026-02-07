@@ -15,6 +15,10 @@ Advanced Network Monitoring Tool with Auto-Resume &amp; Safety Features.
 ### 📥 Download
 You can download the latest version from the **[Releases Section](../../releases)**.
 
+## 📖 User Manual
+Want to know how to use Multi-Mode, Auto-Resume, or Smart Cleaning?  
+👉 **[Click here to read the Full User Guide](USER_GUIDE.md)**
+
 ### 🛠️ How to Use
 1. Download the `.exe` file.
 2. Run as Administrator (recommended).
