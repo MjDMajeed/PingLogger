@@ -29,10 +29,10 @@ It allows simultaneous monitoring of multiple critical devices, logs uptime/down
 ## 📖 How to Use
 
 ### 🟢 Single Target Mode
-*Best for: Detailed monitoring of one critical device (e.g., Main BMS Server).*
+*Best for: Detailed monitoring of one critical device (e.g., any ETS).*
 
 1.  **Enter IP:** Type the IP address (e.g., `192.168.1.100`) or Hostname.
-2.  **Nickname:** Add a label like "Chiller Plant PLC" (Optional).
+2.  **Nickname:** Add a label like "ETS 005" (Optional).
 3.  **Action:** Click **[ START LOGGING ]**.
     * **Left Side:** Controls become disabled to prevent accidental changes.
     * **Right Side:** A large Command Prompt style window shows live ping replies.
